@@ -25,7 +25,7 @@ module.exports = function SkipCharacterSelect(dispatch) {
     */
     const delay = 8000; 
 
-    let settingsPath;
+    let settingsPath,
     enabled = true;
             
     dispatch.hook('S_LOGIN_ACCOUNT_INFO', 1, (event) => {
