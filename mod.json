@@ -1,7 +1,0 @@
-{
-	"name": "skip-character-select",
-	"update": "github:Hawker2007/skip-character-select",
-	"title": "Skip Char selection",
-	"authors": ["teralove"],
-	"description": "Skipping charcter selection window and login to your last played char"
-}
